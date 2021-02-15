@@ -1,8 +1,8 @@
 {
-    "name": "SulfuricAcidElectrolysis",
+    "name": "SulfuricAcidElectrolysis电解硫酸制油",
     "version_number": "1.0",
-    "website_url": "https://github.com/risk-of-thunder",
-    "description": "Electrolyze sulfuric acid to obtain refined oil and water, facilitating development in star systems without oil and water resources.电解硫酸以得到精炼油和水，方便在没有石油和水资源的恒星系进行发展",
+    "website_url": "https://github.com/iWasOmen/DysonSphereProgram",
+    "description": "Electrolyze sulfuric acid to obtain refined oil and water.电解硫酸以得到精炼油和水。",
     "dependencies": [
         "xiaoye97-BepInEx-5.4.5",
         "xiaoye97-LDBTool-1.7.0"
