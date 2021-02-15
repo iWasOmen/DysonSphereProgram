@@ -1,0 +1,5 @@
+S:\SteamLibrary\steamapps\common\Dyson Sphere Program\BepInEx\plugins\SulfuricAcidElectrolysis.dll
+S:\SteamLibrary\steamapps\common\Dyson Sphere Program\BepInEx\plugins\SulfuricAcidElectrolysis.pdb
+C:\Users\omen\Desktop\dsp\DSP_mod\DSP_mod\obj\Debug\SulfuricAcidElectrolysis.csproj.CoreCompileInputs.cache
+C:\Users\omen\Desktop\dsp\DSP_mod\DSP_mod\obj\Debug\SulfuricAcidElectrolysis.dll
+C:\Users\omen\Desktop\dsp\DSP_mod\DSP_mod\obj\Debug\SulfuricAcidElectrolysis.pdb
